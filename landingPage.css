@@ -10,7 +10,7 @@
   
   body{
     position: relative;
-    background-image: url('15230.jpg');
+    background-image: url('/assets/15230.jpg');
     scroll-behavior: smooth;
     overflow-x: hidden;
     background-position: center;
